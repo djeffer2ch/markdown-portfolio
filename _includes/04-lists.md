@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Learning
+* Reading
+  * Science
+  * Novels
+  * Tech
+* Gaming
+  * WoW
+  * Dota 2
