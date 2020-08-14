@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Experienced in the following areas:
+* Networking and Security
+  * Palo Alto Networks **_PCNSE_**
+  * Extreme Networks **_ECS_**
+  * Allied Telesis **_CAT_**
+* Programming languages
+ * **Java**
+ * **C#**
+ * Python
+ * Javascript
+ * Shell
+ * C++
